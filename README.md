@@ -8,9 +8,8 @@
 I’m a curious learner who enjoys exploring the world of <b>Machine Learning</b> and understanding how data can be used to solve real-world problems.
 I like building things, experimenting with models (and sometimes breaking them 😄), and then figuring out how to improve them.
 When I’m not working on ML projects, you’ll usually find me learning new concepts, strengthening my Python skills,
-or experimenting with datasets to gain better insights.</h4>
-<br><br>
-<b>Always learning, always improving—welcome to my GitHub!</b>
+or experimenting with datasets to gain better insights.<br>
+<b>Always learning, always improving—welcome to my GitHub!</b></h4>
 </p>
 <h2>Connect with me</h2>
 
