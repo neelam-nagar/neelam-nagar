@@ -2,11 +2,10 @@
   <img src="ml_ai_banner.png" width="900" alt="Machine Learning & AI Enthusiast" />
 </p>
 <div align="center">
-<h2 align="center">About Me</h2>
 <p>
 <h1 align="center">Hi 👋, I'm Neelam Nagar</h1>
 </p>
-
+<div align="center">
 <p> <h3>
 I’m a curious learner who enjoys exploring the world of <b>Machine Learning</b> and understanding how data can be used to solve real-world problems.
 I like building things, experimenting with models (and sometimes breaking them 😄), and then figuring out how to improve them.
