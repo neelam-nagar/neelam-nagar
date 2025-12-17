@@ -15,10 +15,21 @@ Always learning, always improving—welcome to my GitHub!
 </p>
 </h3>
 </div>
+<h2>Connect with me:</h2>
 
-<h2 align="center">Languages & Tools</h2>
+<p>
+  <a href="https://www.linkedin.com/in/neelamnagar/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:neelunagar82@gmail.com">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40" />
+  </a>
+</p>
 
-<p align="center">
+<h2>Languages & Tools:</h2>
+
+<p>
   <!-- Programming Languages -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="45" />
@@ -27,7 +38,7 @@ Always learning, always improving—welcome to my GitHub!
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="45" />
 </p>
 
-<p align="center">
+<p>
   <!-- ML / Data Science -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="45" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="45" />
@@ -35,18 +46,18 @@ Always learning, always improving—welcome to my GitHub!
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="45" />
 </p>
 
-<p align="center">
+<p>
   <!-- Web -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" />
 </p>
 
-<p align="center">
+<p>
   <!-- Database & Tools -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" />
 </p>
 
-<p align="center">
-  <b>Machine Learning • DSA • Prompt Engineering</b>
+<p>
+  <b>Machine Learning • DSA </b>
 </p>
