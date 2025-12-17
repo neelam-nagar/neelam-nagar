@@ -7,7 +7,7 @@
 <h1 align="center">Hi 👋, I'm Neelam Nagar</h1>
 </p>
 
-<p> <h5>
+<p> <h3>
 I’m a curious learner who enjoys exploring the world of <b>Machine Learning</b> and understanding how data can be used to solve real-world problems.
 I like building things, experimenting with models (and sometimes breaking them 😄), and then figuring out how to improve them.
 </p>
@@ -18,5 +18,5 @@ or experimenting with datasets to gain better insights.
 <p>
 Always learning, always improving—welcome to my GitHub!
 </p>
-</h5>
+</h3>
 </div>
