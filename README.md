@@ -16,9 +16,9 @@ Always learning, always improving—welcome to my GitHub!
 </h3>
 </div>
   
-<h2 align="center">Languages & Tools</h2>
+<h2>Languages & Tools</h2>
 
-<p align="center">
+<p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="45"/>
